@@ -15,7 +15,7 @@ const Banner = () => {
             <span className='text-violet-700'>Rent</span> Your Dream House With Us.
           </h1>
           <p className='max-w-[480px] mb-8'>
-            Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet 
+           Come and find the right place where you and your will find the peace to live "la vida loca" and everyone will enjoy it for sure, don't be shy and just feel the future whisper you. 
           </p>
         </div>
         {/* image */}
